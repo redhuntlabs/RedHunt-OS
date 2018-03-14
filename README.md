@@ -29,7 +29,7 @@ RedHunt aims to be a one stop shop for all your threat emulation and threat huni
 * SHA1: Coming Soon...
 
 ## Sneak Peek:
-<img src="https://github.com/redhuntlabs/RedHunt-OS/blob/master/Login.jpg" width="45%">  <img src="https://github.com/redhuntlabs/RedHunt-OS/blob/master/Caldera.jpg" width="45%">
+<img src="https://github.com/redhuntlabs/RedHunt-OS/blob/master/Login.jpg" width="32%"> <img src="https://github.com/redhuntlabs/RedHunt-OS/blob/master/Caldera.jpg" width="32%"> <img src="https://github.com/redhuntlabs/RedHunt-OS/blob/master/Kolide.jpg" width="32%">
 
 ## To-Do:
 * Integrate Threat Intelligence Frameworks
