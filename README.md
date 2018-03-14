@@ -35,6 +35,9 @@ RedHunt aims to be a one stop shop for all your threat emulation and threat huni
 * Integrate Threat Intelligence Frameworks
 * Integrate OSINT Frameworks
 
+## Twitter:
+* https://twitter.com/redhuntlabs
+
 ## References:
 * https://cyberwardog.blogspot.in/2017/02/setting-up-pentesting-i-mean-threat_98.html
 * https://jordanpotti.com/2018/02/16/elk-osquery-kolide-fleet-love/
