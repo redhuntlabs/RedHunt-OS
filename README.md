@@ -8,18 +8,18 @@ RedHunt aims to be a one stop shop for all your threat emulation and threat huni
 
 ## Tool Setup
 #### Attack Emulation:
-* Caldera
-* Atomic Red team
-* DumpsterFire
-* Metta
-* Nmap
-* CrackMapExec
-* Responder
-* Zap
+* [Caldera](https://github.com/mitre/caldera)
+* [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
+* [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)
+* [Metta](https://github.com/uber-common/metta)
+* [Nmap](https://nmap.org/download.html)
+* [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)
+* [Responder](https://github.com/lgandx/Responder)
+* [Zap](https://www.zaproxy.org/)
 
 #### Logging and Monitoring:
-* Kolide Fleet
-* ELK (Elasticsearch, Logstash, and Kibana) Stack
+* [Kolide Fleet](https://github.com/kolide/fleet)
+* [ELK (Elasticsearch, Logstash, and Kibana) Stack](https://www.elastic.co/elk-stack)
 
 ## VM Download Link: 
 * https://goo.gl/PGRy2r
