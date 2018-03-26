@@ -25,8 +25,13 @@ RedHunt aims to be a one stop shop for all your threat emulation and threat huni
 * https://goo.gl/PGRy2r
 * This is an Alpha Release and is being shared for testing purpose only. All feedback is welcome.
 
+VM Credentials:
 Username: hunter
 Password: hunter
+
+Caldera Credentials:
+Username: admin 
+Password: caldera 
 
 ## Checksums: 
 * MD5: 12101fa1b48b27716b2c6261cc7f9b72
