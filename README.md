@@ -25,11 +25,11 @@ RedHunt aims to be a one stop shop for all your threat emulation and threat huni
 * https://goo.gl/PGRy2r
 * This is an Alpha Release and is being shared for testing purpose only. All feedback is welcome.
 
-VM Credentials:
+**VM Credentials:**
 Username: hunter
 Password: hunter
 
-Caldera Credentials:
+**Caldera Credentials:**
 Username: admin 
 Password: caldera 
 
