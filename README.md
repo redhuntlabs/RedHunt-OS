@@ -29,7 +29,7 @@ RedHunt aims to be a one stop shop for all your threat emulation and threat hunt
 * [theHarvestor](https://github.com/laramies/theHarvester)
 
 #### Threat Intelligence:
-* [Yeti](https://github.com/kolide/fleet)
+* [Yeti](https://github.com/yeti-platform/yeti)
 * [Harpoon](https://github.com/Te-k/harpoon)
 
 ## VM Download Link: 
