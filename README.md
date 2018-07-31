@@ -47,11 +47,11 @@ RedHunt aims to be a one stop shop for all your threat emulation and threat hunt
 #
 
 **Setup:**
-Download the latest OVA file from https://github.com/redhuntlabs/RedHunt-OS.
-Import the OVA in VirtualBox.
-Login using the credentials hunter:hunter.
-Update the distribution ‘sudo apt-get update && sudo apt-get upgrade’.
-Configure/Use the tools.
+* Download the latest OVA file from https://github.com/redhuntlabs/RedHunt-OS.
+* Import the OVA in VirtualBox.
+* Login using the credentials hunter:hunter.
+* Update the distribution ‘sudo apt-get update && sudo apt-get upgrade’.
+* Configure/Use the tools.
 
 **VM Credentials:**
 Username: hunter
