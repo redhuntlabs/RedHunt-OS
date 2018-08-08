@@ -4,7 +4,7 @@ Virtual Machine for Adversary Emulation and Threat Hunting
 RedHunt aims to be a one stop shop for all your threat emulation and threat hunting needs by integrating attacker's arsenal as well as defender's toolkit to actively identify the threats in your environment.
 
 ## Base Machine: 
-* Lubuntu-17.10.1 x64
+* Lubuntu-18.04 x64
 
 ## Tool Setup
 #### Attack Emulation:
@@ -15,6 +15,7 @@ RedHunt aims to be a one stop shop for all your threat emulation and threat hunt
 * [RTA](https://github.com/endgameinc/RTA)
 * [Nmap](https://nmap.org/download.html)
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)
+* [Metasploit](https://github.com/rapid7/metasploit-framework)
 * [Responder](https://github.com/lgandx/Responder)
 * [Zap](https://www.zaproxy.org/)
 
@@ -33,18 +34,14 @@ RedHunt aims to be a one stop shop for all your threat emulation and threat hunt
 * [Harpoon](https://github.com/Te-k/harpoon)
 
 ## VM Download Link: 
-* Beta v1: https://bit.ly/2EBNM90
-* This is a Beta Release and is being shared for testing and suggestions purpose only. All feedback is welcome.
+* Release v1: http://bit.ly/RedHUNTv1. All feedback is welcome.
 
 *Changelog*
 * System Updates
 * Tool Updates
 * New Categories added: Open Source Intelligence & Threat Intelligence
-
-#
-* Alpha: https://goo.gl/PGRy2r
-* This is an Alpha Release and is being shared for testing purpose only. All feedback is welcome.
-#
+* Base OS Updated to 18.04
+* Metasploit Framework Installed
 
 **Setup:**
 * Download the latest OVA file from https://github.com/redhuntlabs/RedHunt-OS.
@@ -62,13 +59,9 @@ Username: admin
 Password: caldera 
 
 ## Checksums: 
-**Beta v1**
-* MD5: 30f7de6fd85a0178b67c49491977995d
-* SHA1: 8c4f0a2b6567e7c36af9c4bcc554110f458614b3
-
-**Alpha**
-* MD5: 12101fa1b48b27716b2c6261cc7f9b72
-* SHA1: c0ce0873f9400f54a4af6af8bb998ee2463a84e4
+**Version 1**
+* MD5: 49b14e98b0b7d0276fe90da3f98608b0
+* SHA1: 1963cdccc31349699226a3741bc5d1825ab70a61
 
 ## Sneak Peek:
 <img src="https://github.com/redhuntlabs/RedHunt-OS/blob/master/Login.jpg" width="35%"> <img src="https://github.com/redhuntlabs/RedHunt-OS/blob/master/Caldera.jpg" width="35%"> <img src="https://github.com/redhuntlabs/RedHunt-OS/blob/master/Kolide.jpg" width="35%">
