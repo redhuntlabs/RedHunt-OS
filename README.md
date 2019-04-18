@@ -73,7 +73,7 @@ Password: caldera
 - [x] Integrate OSINT Frameworks
 
 ## Website:
-* http://redhuntlabs.com
+* https://redhuntlabs.com
 
 ## Twitter:
 * https://twitter.com/redhuntlabs
