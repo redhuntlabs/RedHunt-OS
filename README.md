@@ -1,7 +1,9 @@
 # RedHunt Linux Distribution (VM)
-Virtual Machine for Adversary Emulation and Threat Hunting
+Virtual Machine for Adversary Emulation and Threat Hunting by [RedHunt Labs](https://redhuntlabs.com/)
 
-RedHunt aims to be a one stop shop for all your threat emulation and threat hunting needs by integrating attacker's arsenal as well as defender's toolkit to actively identify the threats in your environment.
+RedHunt OS aims to be a one stop shop for all your threat emulation and threat hunting needs by integrating attacker's arsenal as well as defender's toolkit to actively identify the threats in your environment.
+
+
 
 ## Base Machine: 
 * Lubuntu-18.04 x64
