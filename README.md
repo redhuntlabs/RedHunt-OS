@@ -1,4 +1,4 @@
-# RedHunt Linux Distribution (VM)
+# RedHunt Linux Distribution (VM) v2
 [<img src="https://redhuntlabs.com/assets/images/target-audience-512-512x512.png" align="right" width="100">](https://redhuntlabs.com/)
 Virtual Machine for Adversary Emulation and Threat Hunting by [RedHunt Labs](https://redhuntlabs.com/)
 
@@ -13,16 +13,14 @@ RedHunt OS aims to be a one stop shop for all your threat emulation and threat h
 #### Attack Emulation:
 * [Caldera](https://github.com/mitre/caldera)
 * [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
-* [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)
-* [Metta](https://github.com/uber-common/metta)
-* [RTA](https://github.com/endgameinc/RTA)
 * [Nmap](https://nmap.org/download.html)
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)
 * [Metasploit](https://github.com/rapid7/metasploit-framework)
 * [Responder](https://github.com/lgandx/Responder)
 * [Zap](https://www.zaproxy.org/)
+* [ADRecon](https://github.com/adrecon/ADRecon)
 
-#### Logging and Monitoring:
+#### Threat HUNTing:
 * [Kolide Fleet](https://github.com/kolide/fleet)
 * [ELK (Elasticsearch, Logstash, and Kibana) Stack](https://www.elastic.co/elk-stack)
 
@@ -36,15 +34,20 @@ RedHunt OS aims to be a one stop shop for all your threat emulation and threat h
 * [Yeti](https://github.com/yeti-platform/yeti)
 * [Harpoon](https://github.com/Te-k/harpoon)
 
+#### Reporting:
+* [Asciinema](https://asciinema.org)
+* [Flameshot](https://github.com/lupoDharkael/flameshot)
+* [CherryTree](https://www.giuspen.com/cherrytree/)
+
 ## VM Download Link: 
-* Release v1: http://bit.ly/RedHUNTv1. All feedback is welcome.
+* Release v2: http://bit.ly/RedHunt-OS-v2. All feedback is welcome.
 
 *Changelog*
 * System Updates
 * Tool Updates
-* New Categories added: Open Source Intelligence & Threat Intelligence
+* New Categories added: Reporting
+* Outdated tools removed
 * Base OS Updated to 18.04
-* Metasploit Framework Installed
 
 **Setup:**
 * Download the latest OVA file from https://github.com/redhuntlabs/RedHunt-OS.
@@ -63,8 +66,8 @@ Password: caldera
 
 ## Checksums: 
 **Version 1**
-* MD5: 49b14e98b0b7d0276fe90da3f98608b0
-* SHA1: 1963cdccc31349699226a3741bc5d1825ab70a61
+* MD5: f8d433140f7e2b370b81c8b6ed3c951f
+* SHA1: 66b6a9bdbd2c6f029de9d17a2e086166a1ab7fd3
 
 ## Sneak Peek:
 <img src="https://github.com/redhuntlabs/RedHunt-OS/blob/master/Login.jpg" width="35%"> <img src="https://github.com/redhuntlabs/RedHunt-OS/blob/master/Caldera.jpg" width="35%"> <img src="https://github.com/redhuntlabs/RedHunt-OS/blob/master/Kolide.jpg" width="35%">
@@ -72,6 +75,7 @@ Password: caldera
 
 ## To-Do:
 - [ ] Integrate Memory Forensics and Analysis Framework
+- [x] Integrate Reporting Tools
 - [x] Integrate Threat Intelligence Frameworks
 - [x] Integrate OSINT Frameworks
 
@@ -80,9 +84,6 @@ Password: caldera
 
 ## Twitter:
 * https://twitter.com/redhuntlabs
-
-## Facebook:
-* https://www.facebook.com/redhunt.labs.7
 
 ## References:
 * https://cyberwardog.blogspot.in/2017/02/setting-up-pentesting-i-mean-threat_98.html
