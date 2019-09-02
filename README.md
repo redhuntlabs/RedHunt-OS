@@ -62,7 +62,7 @@ Password: hunter
 
 **Caldera Credentials:**
 Username: admin 
-Password: caldera 
+Password: admin 
 
 ## Checksums: 
 **Version 1**
