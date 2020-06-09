@@ -1,10 +1,10 @@
 # RedHunt Linux Distribution (VM) v2
-[<img src="https://redhuntlabs.com/assets/images/target-audience-512-512x512.png" align="right" width="100">](https://redhuntlabs.com/)
+[<img src="https://i1.wp.com/redhuntlabs.com/wp-content/uploads/2020/05/RedHunt-Logo-Without-Text-Dark.png?w=512&ssl=1" align="right" width="100">](https://redhuntlabs.com/)
 Virtual Machine for Adversary Emulation and Threat Hunting by [RedHunt Labs](https://redhuntlabs.com/)
 
 RedHunt OS aims to be a one stop shop for all your threat emulation and threat hunting needs by integrating attacker's arsenal as well as defender's toolkit to actively identify the threats in your environment.
 
-**[`To know more about our asset discovery and perimeter security offering, check out nVadr.`](https://redhuntlabs.com/nvadr.html)**
+**[`To know more about our asset discovery and perimeter security offering, check out nVadr.`](https://redhuntlabs.com/nvadr)**
 
 ## Base Machine: 
 * Lubuntu-18.04 x64
