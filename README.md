@@ -4,7 +4,7 @@ Virtual Machine for Adversary Emulation and Threat Hunting by [RedHunt Labs](htt
 
 RedHunt OS aims to be a one stop shop for all your threat emulation and threat hunting needs by integrating attacker's arsenal as well as defender's toolkit to actively identify the threats in your environment.
 
-**[`To know more about our asset discovery and perimeter security offering, check out nVadr.`](https://redhuntlabs.com/nvadr)**
+**[`To know more about our Attack Surface Management platform, check out NVADR.`](https://redhuntlabs.com/nvadr)**
 
 ## Base Machine: 
 * Lubuntu-18.04 x64
