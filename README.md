@@ -25,10 +25,10 @@ RedHunt OS aims to be a one stop shop for all your threat emulation and threat h
 * [ELK (Elasticsearch, Logstash, and Kibana) Stack](https://www.elastic.co/elk-stack)
 
 #### Open Source Intelligence (OSINT):
-* [Maltego](https://www.paterva.com/web7/buy/maltego-clients/maltego-ce.php)
-* [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng)
+* [Maltego](https://www.maltego.com/downloads/)
+* [Recon-ng](https://github.com/lanmaster53/recon-ng)
 * [Datasploit](https://github.com/DataSploit/datasploit)
-* [theHarvestor](https://github.com/laramies/theHarvester)
+* [theHarvester](https://github.com/laramies/theHarvester)
 
 #### Threat Intelligence:
 * [Yeti](https://github.com/yeti-platform/yeti)
